@@ -1,6 +1,6 @@
 # CS 161 Intro to Computer Science I
 
-This repository is an archive of all the programming assignments for CS 161 at Oregon State University taken winter quarter 2019, taught by Justin Goins.
+This repository is an archive of all the programming assignments for CS 161 at Oregon State University taken winter quarter 2018, taught by Justin Goins.
 
 ## Course Description
 
